@@ -65,7 +65,6 @@ Displays real-time weather data using API.
  🚀 Future Improvements
 
 Add dark/light theme  
-Add animations  
 Improve mobile responsiveness  
 Add more projects  
 
